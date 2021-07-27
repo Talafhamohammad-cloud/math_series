@@ -36,4 +36,4 @@ def test_sum_series():
 
 
 def test_sum_series():
-    assert sum_series(3, 4, 1) == 6
+    assert sum_series(3,5,1)==7
